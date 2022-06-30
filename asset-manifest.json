@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sleep-calculator/static/css/main.c3318c14.css",
+    "main.js": "/sleep-calculator/static/js/main.ebddb054.js",
+    "static/media/sleep.svg": "/sleep-calculator/static/media/sleep.66716e448b3b90f735778f355367ecf2.svg",
+    "index.html": "/sleep-calculator/index.html",
+    "main.c3318c14.css.map": "/sleep-calculator/static/css/main.c3318c14.css.map",
+    "main.ebddb054.js.map": "/sleep-calculator/static/js/main.ebddb054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3318c14.css",
+    "static/js/main.ebddb054.js"
+  ]
+}
