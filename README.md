@@ -2,8 +2,6 @@
 
 A productivity app based on the Pomodoro Technique.
 
-Demo Link: https://thairyo.github.io/sleep-calculator/
-
 Built using ReactJS and Material-ui.
 
 Current functionalities include:
